@@ -1,6 +1,6 @@
 # DockWeave
 
-**DockWeave** builds protein–ligand interaction networks from MD or docking results, highlighting persistent contacts and network hubs.
+**DockWeave** builds protein–ligand interaction networks from MD simulations or protein-ligand docking results, highlighting persistent contacts and network hubs.
 
 ## 🧰 Use cases
 - Track dynamic interactions  
